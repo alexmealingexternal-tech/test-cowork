@@ -1,0 +1,17 @@
+{
+  "name": "sherpi",
+  "version": "1.0.0",
+  "description": "Browse, install, and manage Sherpi skills for your team.",
+  "author": {
+    "name": "Bonnard Data"
+  },
+  "mcpServers": {
+    "sherpi": {
+      "type": "http",
+      "url": "https://api.sherpi.dev/mcp",
+      "oauth": {
+        "clientId": "sherpi-cowork-plugin"
+      }
+    }
+  }
+}

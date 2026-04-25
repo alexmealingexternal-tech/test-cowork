@@ -1,0 +1,14 @@
+{
+  "name": "sherpi-test",
+  "owner": {
+    "name": "Bonnard Data"
+  },
+  "plugins": [
+    {
+      "name": "sherpi",
+      "source": "./plugins/sherpi",
+      "description": "Browse, install, and manage Sherpi skills for your team.",
+      "version": "1.0.0"
+    }
+  ]
+}
